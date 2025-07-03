@@ -19,3 +19,13 @@ To list things in markdown we do:
 Addition of images to markdown:
 
 ![An Image](https://avatars.githubusercontent.com/u/58903181?v=4)
+
+And finally this is how we create a code block
+
+```python
+
+fruits = ["Apple", "Oranges", "Tomatoes", "Avacoda"]
+
+for fruit in fruits:
+    print(fruit)
+```
