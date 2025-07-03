@@ -15,3 +15,7 @@ To list things in markdown we do:
 - Recurrent neural network
 - COnvoluted neural network
 - Reinforced learning
+
+Addition of images to markdown:
+
+![An Image](https://avatars.githubusercontent.com/u/58903181?v=4)
